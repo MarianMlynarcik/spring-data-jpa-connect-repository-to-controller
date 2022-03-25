@@ -1,0 +1,4 @@
+/home/ccuser/workspace/spring-data-jpa-connect-repository-to-controller/src/main/java/com/codecademy/plants/controllers/PlantController.java
+/home/ccuser/workspace/spring-data-jpa-connect-repository-to-controller/src/main/java/com/codecademy/plants/repositories/PlantRepository.java
+/home/ccuser/workspace/spring-data-jpa-connect-repository-to-controller/src/main/java/com/codecademy/plants/PlantsApplication.java
+/home/ccuser/workspace/spring-data-jpa-connect-repository-to-controller/src/main/java/com/codecademy/plants/entities/Plant.java
